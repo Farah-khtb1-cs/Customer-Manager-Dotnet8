@@ -1,0 +1,101 @@
+﻿@page 
+@model customer_manager.Pages.AddCustomerModel
+@{
+}
+
+<style>
+    form {
+        max-width: 600px;
+        margin: auto;
+        padding: 1em;
+        border: 1px solid #ccc;
+        border-radius: 1em;
+        background: #f9f9f9;
+    }
+
+    label {
+        margin: .5em 0 .2em;
+        color: #333;
+        font-weight: bold;
+    }
+
+    input, select {
+        display: block;
+        width: 100%;
+        padding: .4em;
+        border: 1px solid #ccc;
+        border-radius: .3em;
+        margin-bottom: .5em;
+    }
+
+    button {
+        padding: 0.7em;
+        color: #fff;
+        background-color: #007bff;
+        border: none;
+        border-radius: .3em;
+        cursor: pointer;
+        font-size: 1em;
+    }
+
+        button:hover {
+            background-color: #0056b3;
+        }
+
+    .form-group {
+        margin-bottom: 1em;
+    }
+</style>
+
+<div asp-validation-summary="All" class="danger"></div>
+
+<form method="post" enctype="multipart/form-data">
+
+    <div class="form-group">
+        <label asp-for="ViewModel.FName"></label>
+        <input asp-for="ViewModel.FName" />
+        <span asp-validation-for="ViewModel.FName"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="ViewModel.LName"></label>
+        <input asp-for="ViewModel.LName" />
+        <span asp-validation-for="ViewModel.LName"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="ViewModel.Email"></label>
+        <input asp-for="ViewModel.Email" />
+        <span asp-validation-for="ViewModel.Email"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="ViewModel.Phone"></label>
+        <input asp-for="ViewModel.Phone" />
+        <span asp-validation-for="ViewModel.Phone"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="ViewModel.Address"></label>
+        <input asp-for="ViewModel.Address" />
+        <span asp-validation-for="ViewModel.Address"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="ViewModel.CompanyName"></label>
+        <input asp-for="ViewModel.CompanyName" />
+        <span asp-validation-for="ViewModel.CompanyName"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="ViewModel.Notes"></label>
+        <input asp-for="ViewModel.Notes" />
+        <span asp-validation-for="ViewModel.Notes"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>
+
+@section Scripts {
+    @Html.Partial("_ValidationScriptsPartial")
+}

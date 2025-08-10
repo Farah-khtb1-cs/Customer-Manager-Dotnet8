@@ -1,0 +1,370 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\asp_labs_besmellah\\customer_manager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{38B5BA41-1F5E-46D1-B0D2-ACF8EAEDE637}|customer_manager\\customer_manager.csproj|c:\\asp_labs_besmellah\\customer_manager\\customer_manager\\pages\\addcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38B5BA41-1F5E-46D1-B0D2-ACF8EAEDE637}|customer_manager\\customer_manager.csproj|solutionrelative:customer_manager\\pages\\addcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B5BA41-1F5E-46D1-B0D2-ACF8EAEDE637}|customer_manager\\customer_manager.csproj|c:\\asp_labs_besmellah\\customer_manager\\customer_manager\\pages\\addcustomer.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38B5BA41-1F5E-46D1-B0D2-ACF8EAEDE637}|customer_manager\\customer_manager.csproj|solutionrelative:customer_manager\\pages\\addcustomer.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B5BA41-1F5E-46D1-B0D2-ACF8EAEDE637}|customer_manager\\customer_manager.csproj|c:\\asp_labs_besmellah\\customer_manager\\customer_manager\\pages\\customerdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38B5BA41-1F5E-46D1-B0D2-ACF8EAEDE637}|customer_manager\\customer_manager.csproj|solutionrelative:customer_manager\\pages\\customerdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B5BA41-1F5E-46D1-B0D2-ACF8EAEDE637}|customer_manager\\customer_manager.csproj|c:\\asp_labs_besmellah\\customer_manager\\customer_manager\\pages\\customerdetails.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38B5BA41-1F5E-46D1-B0D2-ACF8EAEDE637}|customer_manager\\customer_manager.csproj|solutionrelative:customer_manager\\pages\\customerdetails.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B5BA41-1F5E-46D1-B0D2-ACF8EAEDE637}|customer_manager\\customer_manager.csproj|c:\\asp_labs_besmellah\\customer_manager\\customer_manager\\models\\customerview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38B5BA41-1F5E-46D1-B0D2-ACF8EAEDE637}|customer_manager\\customer_manager.csproj|solutionrelative:customer_manager\\models\\customerview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B5BA41-1F5E-46D1-B0D2-ACF8EAEDE637}|customer_manager\\customer_manager.csproj|c:\\asp_labs_besmellah\\customer_manager\\customer_manager\\models\\customerbinding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38B5BA41-1F5E-46D1-B0D2-ACF8EAEDE637}|customer_manager\\customer_manager.csproj|solutionrelative:customer_manager\\models\\customerbinding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B5BA41-1F5E-46D1-B0D2-ACF8EAEDE637}|customer_manager\\customer_manager.csproj|c:\\asp_labs_besmellah\\customer_manager\\customer_manager\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38B5BA41-1F5E-46D1-B0D2-ACF8EAEDE637}|customer_manager\\customer_manager.csproj|solutionrelative:customer_manager\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B5BA41-1F5E-46D1-B0D2-ACF8EAEDE637}|customer_manager\\customer_manager.csproj|c:\\asp_labs_besmellah\\customer_manager\\customer_manager\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38B5BA41-1F5E-46D1-B0D2-ACF8EAEDE637}|customer_manager\\customer_manager.csproj|solutionrelative:customer_manager\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B5BA41-1F5E-46D1-B0D2-ACF8EAEDE637}|customer_manager\\customer_manager.csproj|c:\\asp_labs_besmellah\\customer_manager\\customer_manager\\services\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38B5BA41-1F5E-46D1-B0D2-ACF8EAEDE637}|customer_manager\\customer_manager.csproj|solutionrelative:customer_manager\\services\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B5BA41-1F5E-46D1-B0D2-ACF8EAEDE637}|customer_manager\\customer_manager.csproj|c:\\asp_labs_besmellah\\customer_manager\\customer_manager\\services\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38B5BA41-1F5E-46D1-B0D2-ACF8EAEDE637}|customer_manager\\customer_manager.csproj|solutionrelative:customer_manager\\services\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B5BA41-1F5E-46D1-B0D2-ACF8EAEDE637}|customer_manager\\customer_manager.csproj|c:\\asp_labs_besmellah\\customer_manager\\customer_manager\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{38B5BA41-1F5E-46D1-B0D2-ACF8EAEDE637}|customer_manager\\customer_manager.csproj|solutionrelative:customer_manager\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B5BA41-1F5E-46D1-B0D2-ACF8EAEDE637}|customer_manager\\customer_manager.csproj|c:\\asp_labs_besmellah\\customer_manager\\customer_manager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38B5BA41-1F5E-46D1-B0D2-ACF8EAEDE637}|customer_manager\\customer_manager.csproj|solutionrelative:customer_manager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B5BA41-1F5E-46D1-B0D2-ACF8EAEDE637}|customer_manager\\customer_manager.csproj|c:\\asp_labs_besmellah\\customer_manager\\customer_manager\\pages\\customersdisplay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38B5BA41-1F5E-46D1-B0D2-ACF8EAEDE637}|customer_manager\\customer_manager.csproj|solutionrelative:customer_manager\\pages\\customersdisplay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B5BA41-1F5E-46D1-B0D2-ACF8EAEDE637}|customer_manager\\customer_manager.csproj|c:\\asp_labs_besmellah\\customer_manager\\customer_manager\\pages\\customersdisplay.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38B5BA41-1F5E-46D1-B0D2-ACF8EAEDE637}|customer_manager\\customer_manager.csproj|solutionrelative:customer_manager\\pages\\customersdisplay.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B5BA41-1F5E-46D1-B0D2-ACF8EAEDE637}|customer_manager\\customer_manager.csproj|c:\\asp_labs_besmellah\\customer_manager\\customer_manager\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38B5BA41-1F5E-46D1-B0D2-ACF8EAEDE637}|customer_manager\\customer_manager.csproj|solutionrelative:customer_manager\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B5BA41-1F5E-46D1-B0D2-ACF8EAEDE637}|customer_manager\\customer_manager.csproj|c:\\asp_labs_besmellah\\customer_manager\\customer_manager\\migrations\\20250610175931_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38B5BA41-1F5E-46D1-B0D2-ACF8EAEDE637}|customer_manager\\customer_manager.csproj|solutionrelative:customer_manager\\migrations\\20250610175931_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B5BA41-1F5E-46D1-B0D2-ACF8EAEDE637}|customer_manager\\customer_manager.csproj|c:\\asp_labs_besmellah\\customer_manager\\customer_manager\\migrations\\20250610175931_initial.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38B5BA41-1F5E-46D1-B0D2-ACF8EAEDE637}|customer_manager\\customer_manager.csproj|solutionrelative:customer_manager\\migrations\\20250610175931_initial.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B5BA41-1F5E-46D1-B0D2-ACF8EAEDE637}|customer_manager\\customer_manager.csproj|c:\\asp_labs_besmellah\\customer_manager\\customer_manager\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38B5BA41-1F5E-46D1-B0D2-ACF8EAEDE637}|customer_manager\\customer_manager.csproj|solutionrelative:customer_manager\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B5BA41-1F5E-46D1-B0D2-ACF8EAEDE637}|customer_manager\\customer_manager.csproj|c:\\asp_labs_besmellah\\customer_manager\\customer_manager\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38B5BA41-1F5E-46D1-B0D2-ACF8EAEDE637}|customer_manager\\customer_manager.csproj|solutionrelative:customer_manager\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B5BA41-1F5E-46D1-B0D2-ACF8EAEDE637}|customer_manager\\customer_manager.csproj|c:\\asp_labs_besmellah\\customer_manager\\customer_manager\\pages\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{38B5BA41-1F5E-46D1-B0D2-ACF8EAEDE637}|customer_manager\\customer_manager.csproj|solutionrelative:customer_manager\\pages\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\asp_labs_besmellah\\customer_manager\\customer_manager\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "customer_manager\\Models\\Customer.cs",
+              "ToolTip": "C:\\asp_labs_besmellah\\customer_manager\\customer_manager\\Models\\Customer.cs",
+              "RelativeToolTip": "customer_manager\\Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T18:09:29.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomerBinding.cs",
+              "DocumentMoniker": "C:\\asp_labs_besmellah\\customer_manager\\customer_manager\\Models\\CustomerBinding.cs",
+              "RelativeDocumentMoniker": "customer_manager\\Models\\CustomerBinding.cs",
+              "ToolTip": "C:\\asp_labs_besmellah\\customer_manager\\customer_manager\\Models\\CustomerBinding.cs",
+              "RelativeToolTip": "customer_manager\\Models\\CustomerBinding.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T18:09:27.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomerView.cs",
+              "DocumentMoniker": "C:\\asp_labs_besmellah\\customer_manager\\customer_manager\\Models\\CustomerView.cs",
+              "RelativeDocumentMoniker": "customer_manager\\Models\\CustomerView.cs",
+              "ToolTip": "C:\\asp_labs_besmellah\\customer_manager\\customer_manager\\Models\\CustomerView.cs",
+              "RelativeToolTip": "customer_manager\\Models\\CustomerView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T18:53:11.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerDetails.cshtml",
+              "DocumentMoniker": "C:\\asp_labs_besmellah\\customer_manager\\customer_manager\\Pages\\CustomerDetails.cshtml",
+              "RelativeDocumentMoniker": "customer_manager\\Pages\\CustomerDetails.cshtml",
+              "ToolTip": "C:\\asp_labs_besmellah\\customer_manager\\customer_manager\\Pages\\CustomerDetails.cshtml",
+              "RelativeToolTip": "customer_manager\\Pages\\CustomerDetails.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-11T06:55:14.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomerDetails.cshtml.cs",
+              "DocumentMoniker": "C:\\asp_labs_besmellah\\customer_manager\\customer_manager\\Pages\\CustomerDetails.cshtml.cs",
+              "RelativeDocumentMoniker": "customer_manager\\Pages\\CustomerDetails.cshtml.cs",
+              "ToolTip": "C:\\asp_labs_besmellah\\customer_manager\\customer_manager\\Pages\\CustomerDetails.cshtml.cs",
+              "RelativeToolTip": "customer_manager\\Pages\\CustomerDetails.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T06:55:35.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddCustomer.cshtml",
+              "DocumentMoniker": "C:\\asp_labs_besmellah\\customer_manager\\customer_manager\\Pages\\AddCustomer.cshtml",
+              "RelativeDocumentMoniker": "customer_manager\\Pages\\AddCustomer.cshtml",
+              "ToolTip": "C:\\asp_labs_besmellah\\customer_manager\\customer_manager\\Pages\\AddCustomer.cshtml",
+              "RelativeToolTip": "customer_manager\\Pages\\AddCustomer.cshtml",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAGEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-10T18:41:07.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddCustomer.cshtml.cs",
+              "DocumentMoniker": "C:\\asp_labs_besmellah\\customer_manager\\customer_manager\\Pages\\AddCustomer.cshtml.cs",
+              "RelativeDocumentMoniker": "customer_manager\\Pages\\AddCustomer.cshtml.cs",
+              "ToolTip": "C:\\asp_labs_besmellah\\customer_manager\\customer_manager\\Pages\\AddCustomer.cshtml.cs",
+              "RelativeToolTip": "customer_manager\\Pages\\AddCustomer.cshtml.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAowGEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T18:45:01.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\asp_labs_besmellah\\customer_manager\\customer_manager\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "customer_manager\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\asp_labs_besmellah\\customer_manager\\customer_manager\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "customer_manager\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T17:18:14.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\asp_labs_besmellah\\customer_manager\\customer_manager\\Services\\Repository.cs",
+              "RelativeDocumentMoniker": "customer_manager\\Services\\Repository.cs",
+              "ToolTip": "C:\\asp_labs_besmellah\\customer_manager\\customer_manager\\Services\\Repository.cs",
+              "RelativeToolTip": "customer_manager\\Services\\Repository.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAkwEUAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T18:08:09.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\asp_labs_besmellah\\customer_manager\\customer_manager\\Services\\IRepository.cs",
+              "RelativeDocumentMoniker": "customer_manager\\Services\\IRepository.cs",
+              "ToolTip": "C:\\asp_labs_besmellah\\customer_manager\\customer_manager\\Services\\IRepository.cs",
+              "RelativeToolTip": "customer_manager\\Services\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T18:07:55.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\asp_labs_besmellah\\customer_manager\\customer_manager\\appsettings.json",
+              "RelativeDocumentMoniker": "customer_manager\\appsettings.json",
+              "ToolTip": "C:\\asp_labs_besmellah\\customer_manager\\customer_manager\\appsettings.json",
+              "RelativeToolTip": "customer_manager\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-08T08:00:34.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CustomersDisplay.cshtml",
+              "DocumentMoniker": "C:\\asp_labs_besmellah\\customer_manager\\customer_manager\\Pages\\CustomersDisplay.cshtml",
+              "RelativeDocumentMoniker": "customer_manager\\Pages\\CustomersDisplay.cshtml",
+              "ToolTip": "C:\\asp_labs_besmellah\\customer_manager\\customer_manager\\Pages\\CustomersDisplay.cshtml",
+              "RelativeToolTip": "customer_manager\\Pages\\CustomersDisplay.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-10T18:04:48.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CustomersDisplay.cshtml.cs",
+              "DocumentMoniker": "C:\\asp_labs_besmellah\\customer_manager\\customer_manager\\Pages\\CustomersDisplay.cshtml.cs",
+              "RelativeDocumentMoniker": "customer_manager\\Pages\\CustomersDisplay.cshtml.cs",
+              "ToolTip": "C:\\asp_labs_besmellah\\customer_manager\\customer_manager\\Pages\\CustomersDisplay.cshtml.cs",
+              "RelativeToolTip": "customer_manager\\Pages\\CustomersDisplay.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T18:06:55.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\asp_labs_besmellah\\customer_manager\\customer_manager\\Program.cs",
+              "RelativeDocumentMoniker": "customer_manager\\Program.cs",
+              "ToolTip": "C:\\asp_labs_besmellah\\customer_manager\\customer_manager\\Program.cs",
+              "RelativeToolTip": "customer_manager\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T17:27:01.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\asp_labs_besmellah\\customer_manager\\customer_manager\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "customer_manager\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\asp_labs_besmellah\\customer_manager\\customer_manager\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "customer_manager\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAQwA0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T14:38:08.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20250610175931_initial.cs",
+              "DocumentMoniker": "C:\\asp_labs_besmellah\\customer_manager\\customer_manager\\Migrations\\20250610175931_initial.cs",
+              "RelativeDocumentMoniker": "customer_manager\\Migrations\\20250610175931_initial.cs",
+              "ToolTip": "C:\\asp_labs_besmellah\\customer_manager\\customer_manager\\Migrations\\20250610175931_initial.cs",
+              "RelativeToolTip": "customer_manager\\Migrations\\20250610175931_initial.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T14:38:01.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20250610175931_initial.Designer.cs",
+              "DocumentMoniker": "C:\\asp_labs_besmellah\\customer_manager\\customer_manager\\Migrations\\20250610175931_initial.Designer.cs",
+              "RelativeDocumentMoniker": "customer_manager\\Migrations\\20250610175931_initial.Designer.cs",
+              "ToolTip": "C:\\asp_labs_besmellah\\customer_manager\\customer_manager\\Migrations\\20250610175931_initial.Designer.cs",
+              "RelativeToolTip": "customer_manager\\Migrations\\20250610175931_initial.Designer.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T14:37:54.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\asp_labs_besmellah\\customer_manager\\customer_manager\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "customer_manager\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\asp_labs_besmellah\\customer_manager\\customer_manager\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "customer_manager\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAABsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-10T18:04:56.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\asp_labs_besmellah\\customer_manager\\customer_manager\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "customer_manager\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\asp_labs_besmellah\\customer_manager\\customer_manager\\Pages\\Index.cshtml",
+              "RelativeToolTip": "customer_manager\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-10T18:06:38.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\asp_labs_besmellah\\customer_manager\\customer_manager\\Pages\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "customer_manager\\Pages\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\asp_labs_besmellah\\customer_manager\\customer_manager\\Pages\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "customer_manager\\Pages\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-10T18:04:58.087Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 261,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 717,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

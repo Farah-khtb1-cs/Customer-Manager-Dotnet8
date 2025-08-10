@@ -1,0 +1,25 @@
+﻿@page
+@model customer_manager.Pages.CustomerDetailsModel
+
+<h2>Customer Details</h2>
+
+@if (Model.Customer == null)
+{
+    <div class="alert alert-danger">Customer not found.</div>
+}
+else
+{
+    <table class="table table-bordered">
+        <tr><th>ID</th><td>@Model.Customer.CustomerId</td></tr>
+        <tr><th>First Name</th><td>@Model.Customer.FName</td></tr>
+        <tr><th>Last Name</th><td>@Model.Customer.LName</td></tr>
+        <tr><th>Email</th><td>@Model.Customer.Email</td></tr>
+        <tr><th>Phone</th><td>@Model.Customer.Phone</td></tr>
+        <tr><th>Address</th><td>@Model.Customer.Address</td></tr>
+        <tr><th>Company Name</th><td>@Model.Customer.CompanyName</td></tr>
+        <tr><th>Notes</th><td>@Model.Customer.Notes</td></tr>
+        <tr><th>Created At</th><td>@Model.Customer.CreatedAt.ToString("MM/dd/yyyy")</td></tr>
+    </table>
+}
+<a asp-page="/CustomersDisplay" class="btn btn-primary">Back to List</a>
+
